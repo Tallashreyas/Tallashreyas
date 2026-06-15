@@ -1,25 +1,28 @@
-<h1 align="center">Hey 👋 I'm Shreyas</h1>
-<h3 align="center">Competitive Programmer • AI/ML Enthusiast • Quant & Software Explorer</h3>
+# <h1 align="center">Hi 👋, I'm Shreyas</h1>
+
+<h3 align="center">
+Competitive Programming • Software Engineering • Problem Solving
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B+Developer;Problem+Solver;AI+%26+ML+Enthusiast;Quant+Explorer;Curious+Fast+Learner&center=true&width=500&height=45&color=58A6FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programmer;C%2B%2B+Developer;Software+Engineering+Student;Problem+Solver&center=true&width=500&height=45&color=58A6FF">
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-🎓 UG 3rd Year student at **IIT Hyderabad**  
-📚 Engineering Science Department  
+🎓 **3rd Year Undergraduate** at **IIT Hyderabad**
+📚 Department of Engineering Science
 
-💻 Interested in:
-- Software Development
-- Quantitative Finance
-- AI & Machine Learning
-- Competitive Programming
-- Mathematical & Analytical Problem Solving
+💻 **Areas of Interest:**
 
-⚡ Curious learner who loves exploring how systems, algorithms and intelligence work.
+* Software Development
+* Competitive Programming
+* Quantitative Finance
+* Artificial Intelligence & Machine Learning
+
+📌 Currently working on AI/ML and software projects while strengthening problem-solving and development skills.
 
 ---
 
@@ -29,27 +32,39 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,linux,git,vscode" />
 </p>
 
-- 💡 Data Structures & Algorithms
-- ⚙️ Operating Systems
-- 🤖 Prompt Engineering & RAG
-- 📊 Probability & Statistics
-- 🧠 Problem Solving & Optimization
-- 🔍 Analytical Thinking
+* 💡 Data Structures & Algorithms
+* ⚙️ Object-Oriented Programming
+* 🖥️ Operating Systems
+* 🗄️ Database Fundamentals
+* 📊 Probability & Statistics
+* 🧠 Analytical Problem Solving
 
 ---
 
 ## 🏆 Competitive Programming
 
-🌟 Active on:
-- LeetCode
-- Codeforces
+🌟 **Active on:**
 
-🔥 Interested in:
-- Dynamic Programming
-- Graph Algorithms
-- Greedy
-- Binary Search
-- Mathematical Reasoning
+* LeetCode
+* Codeforces
+
+🔥 **Areas of Focus:**
+
+* Dynamic Programming
+* Graph Algorithms
+* Greedy Algorithms
+* Binary Search
+* Mathematical Reasoning
+
+---
+
+## 🌱 Currently Working On
+
+* AI/ML Projects
+* Software Development Projects
+* Advanced Data Structures & Algorithms
+* System Design Fundamentals
+* Computer Networks
 
 ---
 
@@ -62,7 +77,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tallashreyas&theme=tokyonight&hide_border=true"/>
@@ -70,23 +85,6 @@
 
 ---
 
-## 🌱 Currently Exploring
-
-- Advanced DSA
-- AI Systems & RAG
-- Machine Learning
-- Quant Concepts
-- System Design
-- Computer Networks
-
----
-
-## 🎯 Motto
-
-> “Stay curious. Build deeply. Keep solving.” 🚀
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tallashreyas&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Tallashreyas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
