@@ -33,7 +33,6 @@ Competitive Programming • Software Engineering • Problem Solving
 </p>
 
 * 💡 Data Structures & Algorithms
-* ⚙️ Object-Oriented Programming
 * 🖥️ Operating Systems
 * 🗄️ Database Fundamentals
 * 📊 Probability & Statistics
